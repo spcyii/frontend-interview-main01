@@ -1,0 +1,53 @@
+aside {
+  margin: 50px;
+  padding: auto;
+  box-sizing: border-box;
+  background-color: white;
+  width: auto;
+  height: 655px;
+  
+}
+h1 {
+  margin: 0px;
+  padding: 15px;
+  box-sizing: border-box;
+  color: black;
+  font-size: medium;
+  border: 1px solid;
+}
+nav {
+  width: 300px;
+  height: 100px;
+  margin: 0px;
+  padding: 15px;
+  box-sizing: border-box;
+  color: black;
+  font-size: medium;
+  border: 1px solid;
+}
+button {
+  margin: 5px;
+  font-size: 10px;
+  border-radius: 8px;
+  border: 0px;
+}
+section {
+  width: 300px;
+  height: 50px;
+  margin: 0px;
+  padding: 15px;
+  box-sizing: border-box;
+  color: black;
+  font-size: medium;
+  border: 1px solid;
+}
+input {
+    font-size: medium;
+    border: 10px,solid;
+    width: 100px;
+}
+footer{
+  position:absolute; 
+  bottom:0;
+}
+text{color:red;;}

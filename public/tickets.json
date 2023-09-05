@@ -1,0 +1,26 @@
+[
+  {
+    "CODE":"1",
+    "title": "Siam Amazing Park",
+    "img": "/tickets/siam.jpeg",
+    "price": 1000
+  },
+  {
+    "CODE":"2",
+    "title": "Safari World",
+    "img": "/tickets/safari.jpeg",
+    "price": 1200
+  },
+  {
+    "CODE":"3",
+    "title": "Dream World",
+    "img": "/tickets/dream.jpeg",
+    "price": 1500
+  },
+  {
+    "CODE":"4",
+    "title": "Sea Life Bangkok Ocean World",
+    "img": "/tickets/sea.jpeg",
+    "price": 2000
+  }
+]
